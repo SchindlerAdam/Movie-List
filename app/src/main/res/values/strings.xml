@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="btn_text_list_item">Details</string>
+    <string name="switch_menu_layout">Switch Layout</string>
+    <string name="btn_search_fragment_details">Search more on web</string>
+    <string name="story_tag_fragment_details">Story:</string>
+    <string name="content_description">Images for recyclerView:</string>
+</resources>

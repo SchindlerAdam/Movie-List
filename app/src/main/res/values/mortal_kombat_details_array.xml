@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="mortal_kombat">
+
+            <item>MMA fighter Cole Young seeks out Earth\'s greatest champions in order to stand against the enemies of Outworld in a high stakes battle for the universe.</item>
+            <item>Director: Simon McQuoid</item>
+            <item>Writers: Greg Russo, Dave Callaham, Oren Uziel</item>
+            <item>Stars: Lewis Tan, Jessica McNamee, Josh Lawson</item>
+    </string-array>
+
+
+</resources>

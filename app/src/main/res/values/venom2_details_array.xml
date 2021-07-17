@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="venom2">
+
+            <item>Sequel to the 2018 film Venom.</item>
+            <item>Director: Andy Serkis</item>
+            <item>Writers: Kelly Marcel, Tom Hardy</item>
+            <item>Stars: Tom Hardy, Michelle Williams, Stephen Graham</item>
+    </string-array>
+
+
+</resources>

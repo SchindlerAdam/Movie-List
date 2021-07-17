@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="bob_burger">
+
+            <item>Feature film based on the animated TV series.</item>
+            <item>Director: Loren Bouchard</item>
+            <item>Writers: Loren Bouchard, Jim Dauterive</item>
+            <item>Stars: H. Jon Benjamin (voice), Kristen Schaal (voice), Dan Mintz (voice)</item>
+    </string-array>
+
+
+</resources>

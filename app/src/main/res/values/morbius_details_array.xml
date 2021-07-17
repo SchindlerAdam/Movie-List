@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="morbius">
+
+            <item>Biochemist Michael Morbius tries to cure himself of a rare blood disease, but he inadvertently infects himself with a form of vampirism instead.</item>
+            <item>Director: Daniel Espinosa</item>
+            <item>Writers: Matt Sazama, Buk Sharpless, Roy Thomas</item>
+            <item>Stars: Jared Leto, Michael Keaton, Adria Arjona</item>
+    </string-array>
+
+
+</resources>

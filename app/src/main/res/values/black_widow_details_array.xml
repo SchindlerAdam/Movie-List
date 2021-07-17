@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="black_widow">
+
+            <item>Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises.</item>
+            <item>Director: Cate Shortland</item>
+            <item>Writers: Eric Pearson, Jac Schaeffer, Ned Benson</item>
+            <item>Stars: Scarlett Johansson, Florence Pugh, David Harbour</item>
+    </string-array>
+
+
+</resources>

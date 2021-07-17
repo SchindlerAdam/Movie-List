@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="no_time_to_die">
+
+            <item>James Bond has left active service. \nHis peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.</item>
+            <item>Director: Cary Joji Fukunga</item>
+            <item>Writers: Neal Purvis, Robert Wade, Cary Joji Fukunga</item>
+            <item>Stars: Daniel Craig, Ana de Armas, Rami Malek</item>
+    </string-array>
+
+
+</resources>

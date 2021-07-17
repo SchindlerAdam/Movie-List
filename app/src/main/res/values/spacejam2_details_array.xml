@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="spacejam2">
+
+            <item>A rogue artificial intelligence kidnaps the son of famed basketball player LeBron James, who then has to work with Bugs Bunny to win a basketball game.</item>
+            <item>Director: Malcom D. Lee</item>
+            <item>Writers: Juel Taylor, Tony Rettenmaier, Keenan Coogler</item>
+            <item>Stars: LeBron James, Don Cheadle, Cedric Joe</item>
+    </string-array>
+
+
+</resources>

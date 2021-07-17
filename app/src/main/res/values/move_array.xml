@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movies">
+        <item>Wonder Woman 1984</item>
+        <item>Soul</item>
+        <item>News of World</item>
+        <item>The Little Things</item>
+        <item>Cinderella</item>
+        <item>Judas and the Black Messiah</item>
+        <item>The Many Saints of Newark</item>
+        <item>Morbius</item>
+        <item>Fatherhood</item>
+        <item>No Time to Die</item>
+        <item>Peter Rabbit 2: The Runaway</item>
+        <item>Bob\'s Burgers: The Movie</item>
+        <item>Mortal Kombat</item>
+        <item>Black Widow</item>
+        <item>Godzilla vs. Kong</item>
+        <item>F9: The Fast Saga</item>
+        <item>Venom: Let There Be Carnage</item>
+        <item>Space Jam: A New Legacy</item>
+    </string-array>
+</resources>
